@@ -6,7 +6,7 @@
           <div id="contentDiv"></div>
            
           <script type="text/javascript">
-             
+             console.log("Anuj");
               function getHtml() {    
                   var parameters = {};  
                   parameters[gadgets.io.RequestParameters.CONTENT_TYPE] = gadgets.io.ContentType.TEXT;  
